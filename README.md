@@ -1,3 +1,5 @@
+link para acessar o projeto: https://caiomeirelles22.github.io/games/
+
 <img src='./public/print1.png'> 
 <img src='./public/print2.png'>
 <img src='./public/print3.png'>
